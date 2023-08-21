@@ -7,7 +7,6 @@ O **Aplicativo de CRM** é uma solução moderna para a gestão eficaz de relaci
 - Cadastro e edição detalhados de contatos.
 - Categorização avançada com tags personalizáveis.
 - Histórico completo de interações e comunicações.
-- Importação de dados de redes sociais.
 - Análises de dados para tomada de decisões estratégicas.
 - Interface responsiva e amigável.
 
