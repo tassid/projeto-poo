@@ -2,6 +2,11 @@
 
 O **Aplicativo de CRM** é uma solução moderna para a gestão eficaz de relacionamentos pessoais e profissionais. Este projeto tem como objetivo desenvolver uma plataforma que permita aos usuários gerenciar contatos, interações e informações estratégicas de maneira intuitiva e eficiente.
 
+
+## Documentação
+
+Acesse o link da [Wiki]([https://opensource.org/licenses/MIT](https://github.com/tassid/projeto-poo/wiki) do projeto para conferir a documentação.
+
 ## Funcionalidades Principais
 
 - Cadastro e edição detalhados de contatos.
