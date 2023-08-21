@@ -5,7 +5,7 @@ O **Aplicativo de CRM** é uma solução moderna para a gestão eficaz de relaci
 
 ## Documentação
 
-Acesse o link da [Wiki]([https://opensource.org/licenses/MIT](https://github.com/tassid/projeto-poo/wiki) do projeto para conferir a documentação.
+Acesse o link da [Wiki](https://github.com/tassid/projeto-poo/wiki) do projeto para conferir a documentação.
 
 ## Funcionalidades Principais
 
