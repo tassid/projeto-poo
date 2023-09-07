@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tassianeanzolin/Projects/ProCRM/ProCRM/ProCRM.csproj": {}
+    "/Users/tassianeanzolin/Music/projeto-poo/ProCRM/ProCRM.csproj": {}
   },
   "projects": {
-    "/Users/tassianeanzolin/Projects/ProCRM/ProCRM/ProCRM.csproj": {
+    "/Users/tassianeanzolin/Music/projeto-poo/ProCRM/ProCRM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tassianeanzolin/Projects/ProCRM/ProCRM/ProCRM.csproj",
+        "projectUniqueName": "/Users/tassianeanzolin/Music/projeto-poo/ProCRM/ProCRM.csproj",
         "projectName": "ProCRM",
-        "projectPath": "/Users/tassianeanzolin/Projects/ProCRM/ProCRM/ProCRM.csproj",
+        "projectPath": "/Users/tassianeanzolin/Music/projeto-poo/ProCRM/ProCRM.csproj",
         "packagesPath": "/Users/tassianeanzolin/.nuget/packages/",
-        "outputPath": "/Users/tassianeanzolin/Projects/ProCRM/ProCRM/obj/",
+        "outputPath": "/Users/tassianeanzolin/Music/projeto-poo/ProCRM/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tassianeanzolin/.nuget/NuGet/NuGet.Config"

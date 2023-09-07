@@ -15,7 +15,13 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        HomeModel home = new HomeModel();
+        {
+            home.Nome = "Tassiane";
+            home.Email = "tassianeanzolin@gmail.com";
+        };
+
+        return View(home);
     }
 
     public IActionResult Privacy( )
