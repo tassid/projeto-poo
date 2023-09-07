@@ -1,6 +1,6 @@
 # Aplicativo de CRM - Projeto
 
-O **Aplicativo de CRM** é uma solução moderna para a gestão eficaz de relacionamentos pessoais e profissionais. Este projeto tem como objetivo desenvolver uma plataforma que permita aos usuários gerenciar contatos, interações e informações estratégicas de maneira intuitiva e eficiente.
+O **ProCRM** é uma solução moderna para a gestão eficaz de relacionamentos pessoais e profissionais. Este projeto tem como objetivo desenvolver uma plataforma que permita aos usuários gerenciar contatos, interações e informações estratégicas de maneira intuitiva e eficiente.
 
 
 ## Documentação
